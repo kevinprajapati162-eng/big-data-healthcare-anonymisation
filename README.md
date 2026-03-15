@@ -1,8 +1,11 @@
 **Big Data Healthcare Anonymisation:**
+
 This project focuses on anonymising sensitive healthcare data using Java in a big data environment. The solution was developed to identify and mask personal patient information from healthcare records while preserving the usability of the data for further processing and analysis. The project was implemented and tested using Microsoft Azure Virtual Machine.
 
 **Technologies Used:**
+
 Java
+
 Microsoft Azure Virtual Machine
 Big Data Concepts
 Regular Expressions
