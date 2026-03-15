@@ -31,3 +31,7 @@ Supports privacy-focused healthcare data processing
 PatientDataAnonymisation.java
 
 Project report PDF
+
+**Project Domain**
+
+Healthcare data privacy and anonymisation
