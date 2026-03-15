@@ -1,37 +1,34 @@
-**Big Data Healthcare Anonymisation**
+# Big Data Healthcare Anonymisation
 
-This project focuses on anonymising sensitive healthcare data using Java in a big data environment. The solution was developed to identify and mask personal patient information from healthcare records while preserving the usability of the data for further processing and analysis. The project was implemented and tested using Microsoft Azure Virtual Machine.
+This project focuses on anonymising sensitive healthcare data using Java in a big data and cloud computing context. The solution was designed to protect personal patient information while keeping the data useful for further processing and analysis.
 
-**Technologies Used**
+## Project Overview
+The project applies healthcare data anonymisation principles to patient records and uses pattern-based processing to detect and replace sensitive information. It considers both technical and privacy-related aspects of secure healthcare data handling.
 
-Java
+## Technologies Used
+- Java
+- Microsoft Azure Virtual Machine
+- Big Data Concepts
+- Regular Expressions
+- File Handling
+- Healthcare Data Processing
 
-Microsoft Azure Virtual Machine
+## Key Features
+- Identifies sensitive patient information
+- Applies anonymisation techniques to healthcare records
+- Supports privacy-focused data handling
+- Preserves data structure for later use and analysis
 
-Big Data Concepts
+## Core Topics Covered
+- Data anonymisation principles
+- Pseudonymisation and tokenisation
+- Legal and ethical considerations
+- Cloud-based handling of healthcare data
+- Secure processing of patient records
 
-Regular Expressions
+## Files Included
+- `PatientDataAnonymisation.java` – source code
+- `COMM017 Big Data Coursework 1 - 24014410.pdf` – project report
 
-File Handling
-
-Healthcare Data Processing
-
-**Key Features**
-
-Identifies sensitive patient information
-
-Anonymises fields such as personal and medical details
-
-Preserves data structure for further use
-
-Supports privacy-focused healthcare data processing
-
-**Files Included**
-
-PatientDataAnonymisation.java
-
-Project report PDF
-
-**Project Domain**
-
-Healthcare data privacy and anonymisation
+## Purpose
+This project demonstrates practical understanding of healthcare data privacy, anonymisation methods, and secure processing of sensitive data in a cloud-based big data environment.
