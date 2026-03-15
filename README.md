@@ -4,11 +4,27 @@ This project focuses on anonymising sensitive healthcare data using Java in a bi
 
 **Technologies Used**
 
-Java, Microsoft Azure Virtual Machine, Big Data Concepts, Regular Expressions, File Handling, Healthcare Data Processing
+Java
+
+Microsoft Azure Virtual Machine
+
+Big Data Concepts
+
+Regular Expressions
+
+File Handling
+
+Healthcare Data Processing
 
 **Key Features**
 
-Identifies sensitive patient information, Anonymises fields such as personal and medical details, Preserves data structure for further use, Supports privacy-focused healthcare data processing
+Identifies sensitive patient information
+
+Anonymises fields such as personal and medical details
+
+Preserves data structure for further use
+
+Supports privacy-focused healthcare data processing
 
 **Files Included**
 
